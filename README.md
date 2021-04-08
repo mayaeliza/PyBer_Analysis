@@ -24,6 +24,7 @@ Urban cities generate the most total rides, rides, drivers, fares, and average f
 
 By looking at total fare by city type, rural cities generate the least money, $4,327.93, followed by suburban cities, $19,356.33. Urban cities generate the most money, $39,854.38.
 
-<img width="600" alt=pyber_challenge_fig8" src="https://user-images.githubusercontent.com/72039212/114025735-12c00a80-983b-11eb-90ff-537a6692619e.png">
+![pyber_challenge_fig8](https://user-images.githubusercontent.com/72039212/114029356-0a69ce80-983f-11eb-9bcf-4bcbc62032ba.png)
+
                                                                                                                                                       
 The line chart further illustrates the total fare by city type and also shows a positive trend for increased total fare over time in urban and suburban cities. For rural cities, there are peaks over time but ultimately there is no discenible positive trend for an increase of total fare over time. Due to rural cities having the lowest number of rides, drivers, and total fares, yet the highest rates for average fares per ride and driver, Pyber should consider increasing accessibility to rural cities. This would bring down the average fare per ride and driver. Pyber could redistribute resources and drivers from suburban and urban cities to these rural cities. They should also consider increasing the average fare in urban cities to generate an ever higher total fare in their most profitable city type. 
