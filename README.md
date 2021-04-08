@@ -12,3 +12,7 @@ Software: Python 3.9.0, Anaconda 4.9.1, Jupyter Notebook, Pandas 1.2.3
 
 # Results
 ## How does the data differ by city type? How can those differences can be used by decision-makers at PyBer?
+<img width="488" alt="pyber_challenge_fig9" src="https://user-images.githubusercontent.com/72039212/114025715-0dfb5680-983b-11eb-9af2-6d92f50ae503.png">
+
+
+<img width="600" alt="pyber_challenge_fig8" src="https://user-images.githubusercontent.com/72039212/114025735-12c00a80-983b-11eb-90ff-537a6692619e.png">
