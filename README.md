@@ -1,4 +1,4 @@
-# PyBer_Analysis
+# PyBer Python Analysis
 ## Overview of Pyber Analysis
 A ride-sharing summary presented in a DataFrame by city type
 A summary of total weekly fares for each city type presented in a multiple-line chart 
